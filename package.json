@@ -2,7 +2,6 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SurajChandramauli.github.io/memories-project-master-frontend",
   "proxy": "https://strikingmemoriesbackend.onrender.com/",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
