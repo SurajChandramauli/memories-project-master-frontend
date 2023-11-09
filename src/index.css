@@ -1,0 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background: linear-gradient(to bottom right, #7028e4, #ffc107);
+  background-attachment: fixed;
+}
