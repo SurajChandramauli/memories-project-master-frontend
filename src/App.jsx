@@ -15,7 +15,7 @@ const App = () => {
         <Navbar />
         <Routes>
           <Route
-            path="/memories-project/*"
+            path="https://magicalmemories.netlify.app/*"
             element={<Navigate replace to="/posts" />}
           />
           <Route path="/posts/*" element={<Home />} />
